@@ -1,0 +1,14 @@
+{
+  "name": "RunnerGame.Tests",
+  "rootNamespace": "DesertDash.Tests",
+  "references": [
+    "RunnerGame.Runtime"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": false
+}

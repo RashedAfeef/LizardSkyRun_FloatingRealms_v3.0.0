@@ -1,0 +1,8 @@
+{
+  "name": "RunnerGame.Runtime",
+  "rootNamespace": "DesertDash",
+  "references": [
+    "Unity.ugui"
+  ],
+  "autoReferenced": true
+}

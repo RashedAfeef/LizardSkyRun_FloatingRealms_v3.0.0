@@ -1,0 +1,11 @@
+{
+  "name": "RunnerGame.Editor",
+  "rootNamespace": "DesertDash.Editor",
+  "references": [
+    "RunnerGame.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}
