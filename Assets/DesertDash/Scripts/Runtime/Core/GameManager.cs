@@ -114,7 +114,7 @@ namespace DesertDash.Core
             _scoreBoostRemaining = 0f;
             _missionCompleted = false;
             _mission = RunMission.CreateForRun(_saveService.RunsPlayed);
-            _countdownRemaining = 3f;
+            _countdownRemaining = 5f;
             SetState(GameState.Countdown);
         }
 
